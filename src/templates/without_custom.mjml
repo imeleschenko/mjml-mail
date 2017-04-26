@@ -1,0 +1,16 @@
+<mjml>
+	<mj-body>
+		<mj-container>
+			<mj-section>
+				<mj-group>
+					<mj-column>
+						<mj-text>column 1</mj-text>
+					</mj-column>
+					<mj-column>
+						<mj-text>column 2</mj-text>
+					</mj-column>
+				</mj-group>
+			</mj-section>
+		</mj-container>
+	</mj-body>
+</mjml>

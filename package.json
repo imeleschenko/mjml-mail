@@ -1,0 +1,25 @@
+{
+  "name": "amplify-web-mail",
+  "version": "1.0.0",
+  "description": "Mail templates for NGINX Amplify",
+  "main": "index.js",
+  "author": "Igor Meleshchenko",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-mjml": "^2.1.1",
+    "gulp-tap": "^0.4.2",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "mjml": "^3.3.0",
+    "mjml-container": "^3.3.2",
+    "mjml-core": "^3.3.2",
+    "react": "^15.5.4"
+  }
+}
